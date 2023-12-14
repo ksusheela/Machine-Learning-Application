@@ -1,5 +1,9 @@
 # Machine-Learning-Application
+git add .
+git status
 git push origin main
+git status
+git commit -m " setup file updated"
 
 1. create a new environment 
 conda create -p env python=3.9 -y
